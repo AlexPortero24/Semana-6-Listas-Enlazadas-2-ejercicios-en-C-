@@ -1,0 +1,14 @@
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\bin\Debug\net10.0\ListasEnlazadas2.exe
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\bin\Debug\net10.0\ListasEnlazadas2.deps.json
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\bin\Debug\net10.0\ListasEnlazadas2.runtimeconfig.json
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\bin\Debug\net10.0\ListasEnlazadas2.dll
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\bin\Debug\net10.0\ListasEnlazadas2.pdb
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.AssemblyInfoInputs.cache
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.AssemblyInfo.cs
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.dll
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\refint\ListasEnlazadas2.dll
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.pdb
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ListasEnlazadas2.genruntimeconfig.cache
+C:\Users\David\Documents\ProyectosC#\ListasEnlazadas2\obj\Debug\net10.0\ref\ListasEnlazadas2.dll
